@@ -2,7 +2,7 @@
 
 Full stack developer
 
-shireen.zoaby@gmail.com
+shireen.zoaby@gmail.com | +972-50-8695267
 
 ## EXPERIENCE
 
