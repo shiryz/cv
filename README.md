@@ -22,7 +22,7 @@ shireen.zoaby@gmail.com | +972-50-8695267
 
 
 ## TECHNICAL SKILLS
-C, C++, ML, React, Redux, ES6, Hapi, PostgreSQL, Sass, Git, Bash.
+C, C++, ML, React, Redux, ES6, Hapi, PostgreSQL, Sass, Git, Bash, socket.io.
 
 ## VOLUNTEERING AND SCHOLARSHIPS
 
